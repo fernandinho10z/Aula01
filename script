@@ -1,0 +1,47 @@
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+
+#print ("Meu primeiro script")
+
+'''
+nome = "Fernando"
+if nome == "Fernando":
+    print ("Aluno 4Linux")
+else:
+    print ("Não é aluno")
+'''
+
+#define uma variavel
+CONSTANTE = 3.14
+print (CONSTANTE)
+
+#define um numero inteiro
+num = 1
+print (num)
+print (type(num))
+
+#define um num decimal
+num_dec = 0.123
+print (num_dec)
+print (type(num_dec))
+
+#defie uma string (texto)
+name = "Fernando"
+print (name)
+print (type(name))
+
+#define um dicionario
+info = {"nome": "Fernando", "Curso":"Python"}
+print (info)
+print (type(info))
+
+#define uma lista
+produtos = ["coxinha", "arroz", "feijão"]
+print (produtos)
+print (type(produtos))
+
+#define uma tupula
+num = (1, 2, 3)
+print (num)
+print (type(num))
+
